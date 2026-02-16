@@ -1,5 +1,5 @@
 # ER Diagrams – System Analysis Examples
-- This repository contains Entity-Relationship (ER) diagram examples across logical and physical levels
+- This repository contains Entity-Relationship (ER) diagram examples across context, logical and physical levels
 - It includes data model validation, normalization (0NF → 3NF), and context modeling using Chen and Crow’s Foot notation
 
 ### DOMAINS
