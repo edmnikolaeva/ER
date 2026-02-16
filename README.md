@@ -16,4 +16,4 @@
 - [Logical Data Model (3NF)](https://github.com/edmnikolaeva/stets_home/blob/main/ER_Stets_Home.jpg)
 
 ### Music Service
-- [Physical Data Model](https://github.com/edmnikolaeva/ER/blob/main/ER_%D1%84%D0%B8%D0%B7%D0%B8%D1%87%D0%B5%D1%_)
+- [Physical Data Model](https://github.com/edmnikolaeva/ER/blob/main/ER_физическая.jpg)
