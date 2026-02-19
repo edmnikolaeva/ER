@@ -45,7 +45,7 @@ This repository contains logical and normalized data models for e-commerce and s
 ## 🎵 Music Service
 
 ### Diagram
-- 👉 [Physical Data Model](https://github.com/edmnikolaeva/ER/blob/main/ER_физическая.jpg)
+- [Physical Data Model](https://github.com/edmnikolaeva/ER/blob/main/ER_физическая.jpg)
 - Implements many-to-many relationships (e.g., User ↔ Track via Likes, Track ↔ Genre, User ↔ Playlist → Playlist ↔ Track) with proper keys and constraints for scalable storage and fast retrieval
 ---
 ### Business Context
